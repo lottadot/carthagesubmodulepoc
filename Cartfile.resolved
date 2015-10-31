@@ -1,0 +1,5 @@
+github "robbiehanson/CocoaAsyncSocket" "6e018ddf7c456106f898efae66ea5e5c94737a96"
+github "izqui/SwiftSockets" "fbcce96a193d8ef657fbad435c0e92c44a5a14a4"
+github "izqui/taylor" "0.3.0"
+github "Mast-Swift/Mast" "4952c86ee819fc8775b34a5b8655cd7ec53a00ce"
+github "Mast-Swift/Mast-HBar" "e1bb2ae2dce1829e30cf7ca5084c3531ab0874c1"
